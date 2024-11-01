@@ -57,6 +57,6 @@ The solution was to follow the steps in the command line to specify a temporary 
 ### Future additions  :rocket:
 
 - In the future, I would like to add an enum field for `PriceType` to the `Product` model, so that you can specify whether the price type is `Per Item` or `Per Weight`.
-- For example, there are some products where you pay per item (ie. washing up liquid) and some products where you pay per weight (ie. potatoes).
+- For example, there are some products where you pay per item (ie. washing up liquid) and some products where you pay per weight (ie. potatoes) :potato:
    
 
