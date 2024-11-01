@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/db7e134d-7a00-4e94-ba2a-f66d3c9cb365
 
 Each product has the following characteristics: 
 - Name
-- Description
+- Description (optional)
 - Price
 - Sale Applied (whether there is a discout that currently applies to that item)
 - Sale Price (optional)
