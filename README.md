@@ -22,7 +22,7 @@ It implements the CRUD operations (Create, Read, Update, Delete) to allow you to
 
 Each product has the following characteristics: 
 - Name
-- Description (optional)
+- Description
 - Price
 - Sale Applied (whether there is a discout that currently applies to that item)
 - Sale Price (optional)
