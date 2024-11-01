@@ -22,6 +22,7 @@ It implements the CRUD operations (Create, Read, Update, Delete) to allow you to
 
 https://github.com/user-attachments/assets/db7e134d-7a00-4e94-ba2a-f66d3c9cb365
 
+
 - 0.00 - Overview of the code
 - 1.54 - Demo of listing and creating products
 - 3.53 - Deleting and editing a product 
