@@ -38,14 +38,14 @@ This project has 2 URL patterns:
 
 As this is my first Django project, I have included comments in the code that have helped me to become more familiar with the different aspects of the framework
 
-### Learning Points 
+### Learning Points :ledger:
 
 No project is build without making mistakes and learning from them. Here are some mistakes which I learnt from: 
 - Adding a new field to the model without also adding this item to the list of fields in the `ProductSerializer` class
 - Getting the following error after renaming a field: `It is impossible to add a non-nullable field to feature without specifying a default.`
 The solution was to follow the steps in the command line to specify a temporary value for the field I had renamed, so that it could be used for pre-existing model objects
 
-### Future additions
+### Future additions  :rocket:
 
 - In the future, I would like to add an enum field for `PriceType` to the `Product` model, so that you can specify whether the price type is `Per Item` or `Per Weight`.
 - For example, there are some products where you pay per item (ie. washing up liquid) and some products where you pay per weight (ie. potatoes).
