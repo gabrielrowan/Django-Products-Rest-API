@@ -7,7 +7,7 @@
 
 ### Overview
 
-This is an API made using Django and the REST framework. It is also my first Django project :smiley:
+This is an API made using Django and the REST framework. 
 
 It implements the CRUD operations (Create, Read, Update, Delete) to allow you to do the following: 
 
