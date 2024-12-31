@@ -43,10 +43,6 @@ This project has 2 URL patterns:
 1) `/Products/` - Here you can view all products, delete all products or add a new product
 2) `/Products/id` - Here you can view, update or delete an individual product
 
-### Training Wheels :bike:
-
-As this is my first Django project, I have included comments in the code that have helped me to become more familiar with the different aspects of the framework
-
 ### Learning Points :ledger:
 
 No project is build without making mistakes and learning from them. Here are some mistakes which I learnt from: 
